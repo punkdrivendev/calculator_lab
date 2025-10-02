@@ -28,6 +28,6 @@ int Calculator::Fac(double a)
 	int result = 1;
 	for(int i = 0; i < a; i++){
 		result *= counter;
-		counter--av;
+		counter--;
 	}	
 }
